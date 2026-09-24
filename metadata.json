@@ -1,0 +1,8 @@
+{
+  "name": "Remix ABC School and College",
+  "description": "Official portal and website for ABC School and College - Building bright futures through quality education from Nursery to Grade 12 and Higher Secondary College programs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
